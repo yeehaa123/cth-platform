@@ -1,0 +1,5 @@
+src_files:
+- ./dist/scripts/app.js
+- ./spec/**/*.js
+launch_in_dev:
+- Chrome

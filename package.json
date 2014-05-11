@@ -1,0 +1,27 @@
+{
+  "name": "cth-platform",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "~0.7.3"
+  },
+  "devDependencies": {
+    "angular": "~1.2.16",
+    "coffee-script": "~1.7.1",
+    "browserify": "~4.1.2",
+    "coffeeify": "~0.6.0",
+    "gulp": "~3.6.2",
+    "gulp-browserify": "~0.5.0",
+    "gulp-coffee": "~1.4.3",
+    "gulp-compile-handlebars": "~0.2.0",
+    "gulp-rename": "~1.2.0",
+    "gulp-shell": "~0.2.4",
+    "gulp-uglify": "~0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeehaa",
+  "license": "MIT"
+}
